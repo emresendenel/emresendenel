@@ -23,10 +23,6 @@ I focus on bridging the gap between technical execution and product vision. I'm 
 | :--- | :--- | :--- |
 | [Road to Marathon (RTM)](https://github.com/emresendenel/Road-To-Marathon-RTM-V5) | My latest project focused on marathon training and tracking. | Swift, UIKit, MapKit |
 | [emresendenel.com](https://github.com/emresendenel/emresendenel.com) | My personal website and portfolio. | Astro, Tailwind CSS, JS |
-| [Cursor-rules](https://github.com/emresendenel/Cursor-rules) | Custom configurations and rules for AI-assisted development. | Markdown, JSON |
-| [inbox-zero](https://github.com/emresendenel/inbox-zero) | AI personal assistant for email. help you reach inbox zero fast. | TypeScript, AI |
-| [ai-dev-tasks](https://github.com/emresendenel/ai-dev-tasks) | Workflows and tasks for modern AI development environments. | Shell, YAML |
-| [awesome-cursorrules](https://github.com/emresendenel/awesome-cursorrules) | A curated list of awesome .cursorrules files. | Markdown |
 
 ---
 
