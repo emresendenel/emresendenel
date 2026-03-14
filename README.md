@@ -19,11 +19,8 @@ I focus on bridging the gap between technical execution and product vision. I'm 
 
 ### Selected Projects
 
-*A collection of tools and experiments focused on efficiency and modern development.*
-
-*   **[Cursor-rules](https://github.com/emresendenel/Cursor-rules)** – Custom configurations and rules for AI-assisted development.
-*   **[ai-dev-tasks](https://github.com/emresendenel/ai-dev-tasks)** – Workflows and tasks for modern AI development environments.
-*   **[inbox-zero](https://github.com/emresendenel/inbox-zero)** – AI personal assistant for high-speed email management (Fork).
+*   **[Road to Marathon (RTM)](https://github.com/emresendenel/Road-To-Marathon-RTM-V5)** – My latest project focused on marathon training and tracking.
+*   **[emresendenel.com](https://github.com/emresendenel/emresendenel.com)** – My personal website and portfolio.
 
 ---
 
