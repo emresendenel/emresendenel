@@ -28,18 +28,15 @@ I focus on bridging the gap between technical execution and product vision. I'm 
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresendenel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresendenel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 ---
 
 ### Visitors
 
-<p align="center">
-  Profile visitors <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emresendenel.emresendenel" alt="Visitor Count" />
-</p>
+Profile visitors <br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=emresendenel.emresendenel" alt="Visitor Count" />
+
 
 ---
 
