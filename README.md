@@ -29,7 +29,7 @@ I focus on bridging the gap between technical execution and product vision. I'm 
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresendenel&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresendenel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
