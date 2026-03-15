@@ -28,10 +28,9 @@ I focus on bridging the gap between technical execution and product vision. I'm 
 
 ### GitHub Analytics
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=emresendenel&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emresendenel&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
